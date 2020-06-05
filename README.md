@@ -1,4 +1,4 @@
-# imagesFetcher
+# loadImage
 a small challenge in JavaScript
 
 // Using this array:
