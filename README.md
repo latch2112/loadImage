@@ -17,3 +17,10 @@ var images = [
 // Use this "loadImage" function to load all images from the array using Javascript's Image API
 
 // Display results as they are loaded by showing an interactive % of completion!
+
+## to start
+
+`pnpm i`
+`pnpm run start`
+
+open http://localhost:3000
